@@ -1,2 +1,2 @@
-# autohotkeyroblox
-keybinds-autohotkey
+# autohotkey roblox
+
